@@ -10,7 +10,7 @@ Fazer uma interação de um usuário e um sistema.
 
 ![Não funcional](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/Untitled%20Diagram.drawio.png?raw=true)
 
-## Heuristica 8: Desing estético e minimalista
+Heuristica 8: Desing estético e minimalista
 
 Com uma interface simples, com ícones que demonstram o que cada objeto faça.
 
