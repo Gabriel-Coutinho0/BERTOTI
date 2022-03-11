@@ -22,4 +22,4 @@ Com icônes de facil entendimento e reconhecimento.
 
 Fazer o desesnvolvimento do software.
 
-![Funcional](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/exerc%C3%ADcio%202.drawio.png?raw=true)
+![Funcional](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/exerc%C3%ADcio%2002.drawio.png?raw=true)
