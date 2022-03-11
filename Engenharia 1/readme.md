@@ -17,3 +17,9 @@ Com uma interface simples, com ícones que demonstram o que cada objeto faça.
 Heuristica 6: Reconhecimento ao invés de lembrar
 
 Com icônes de facil entendimento e reconhecimento.
+
+## Exercício 02 Diagrama de classes 
+
+Fazer o desesnvolvimento do software.
+
+![Funcional](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/exerc%C3%ADcio%202.drawio.png?raw=true)
