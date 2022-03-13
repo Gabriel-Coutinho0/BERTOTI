@@ -23,3 +23,16 @@ Com icônes de facil entendimento e reconhecimento.
 Fazer o desesnvolvimento do software.
 
 ![Funcional](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/exerc%C3%ADcio%2002.drawio.png?raw=true)
+
+# Código fonte
+
+Parte Principal:
+
+![Código Plataforma de ensino](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/Imagens/Plataforma%20de%20ensino%2001.PNG?raw=true)
+![Código Plataforma de ensino](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/Imagens/Plataforma%20de%20ensino%2002.PNG?raw=true)
+
+Partes Secundarias:
+
+![Código Pessoas](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/Imagens/Pessoas.PNG?raw=true)
+![Código Turma](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/Imagens/Turma.PNG?raw=true)
+
