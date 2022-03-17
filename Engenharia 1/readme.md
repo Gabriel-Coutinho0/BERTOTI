@@ -1,3 +1,9 @@
+# Gabriel Coutinho Silva 1460482121036
+
+# 03/03 - Cliclo de vida do DER SW
+
+Definindo os requisitos funcionais e não funcionais do Sistema Educacional  
+
 # Exercico 01 Diagrama de Casos de Uso
 
 Fazer uma interação de um usuário e um sistema.
@@ -24,7 +30,9 @@ Fazer o desesnvolvimento do software.
 
 ![Funcional](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/exerc%C3%ADcio%2002.drawio.png?raw=true)
 
-# Código fonte
+# Chaves + Java
+
+## Código fonte
 
 Parte Principal:
 
