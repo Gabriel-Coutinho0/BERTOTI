@@ -4,7 +4,7 @@
 
 Definindo os requisitos funcionais e não funcionais do Sistema Educacional  
 
-# Exercico 01 Diagrama de Casos de Uso
+# Requisitos
 
 Fazer uma interação de um usuário e um sistema.
 
@@ -29,6 +29,8 @@ Com icônes de facil entendimento e reconhecimento.
 Fazer o desesnvolvimento do software.
 
 ![Funcional](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/exerc%C3%ADcio%2002.drawio.png?raw=true)
+
+#Desenvolvimento 
 
 # Chaves + Java
 
