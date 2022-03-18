@@ -1,6 +1,6 @@
 # Gabriel Coutinho Silva 1460482121036
 
-# 03/03 - Cliclo de vida do DER SW
+# 03/03 - Cliclo de vida do DES SW
 
 Definindo os requisitos funcionais e não funcionais do Sistema Educacional  
 
@@ -24,7 +24,7 @@ Heuristica 6: Reconhecimento ao invés de lembrar
 
 Com icônes de facil entendimento e reconhecimento.
 
-## Exercício 02 Diagrama de classes 
+## Projeto - Diagrama de classes 
 
 Fazer o desesnvolvimento do software.
 
