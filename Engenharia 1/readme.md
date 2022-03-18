@@ -41,7 +41,6 @@ Fazer o desesnvolvimento do software.
 Parte Principal:
 
 ![Código Plataforma de ensino](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/Imagens/Plataforma%20de%20Ensino.png?raw=true)
-![Código Plataforma de ensino](https://github.com/Gabriel-Coutinho0/BERTOTI/blob/main/Engenharia%201/Imagens/Plataforma%20de%20ensino%2002.PNG?raw=true)
 
 Partes Secundarias:
 
