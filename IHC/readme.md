@@ -26,6 +26,7 @@ Um bom exemplo disso é o site do WOW sendo responsivo:
 <section align="center">
     <img src="./img/WowPc.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
+
 ## Celular
 <section align="center">
     <img src="./img/WowCell.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
