@@ -22,5 +22,9 @@ No caso as legendas são geradas automaticamente de acordo com a fala de cada pe
 ##1.3 Adaptável
 Crie conteúdo que possa ser apresentado de diferentes maneiras (por exemplo, layout mais simples) sem perder informações ou estrutura. Um recurso da adaptabilidade é a Orientação. Alguns sites e aplicativos exigem que os usuários orientem seus dispositivos móveis em modo paisagem ou retrato, em vez de dar-lhes uma escolha.
 Um bom exemplo disso é o site do WOW sendo responsivo:
+<section align="center">
+<img src:"./img/WowPc.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px; width:370px; height:800px;"/>
+<img src"./img/WowCell.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px; width:370px; height:800px;"/> />
+</section>
 ![image](https://user-images.githubusercontent.com/67170978/196695911-e89a1c9e-3a07-461d-b401-a71a7368bcc5.png)
 ![image](https://user-images.githubusercontent.com/67170978/196696059-2b28b249-d3e9-470b-afa0-c43cac90d569.png)
