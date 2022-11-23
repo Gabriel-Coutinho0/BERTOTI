@@ -63,7 +63,7 @@ A cor é um importante ativo no design de conteúdo web, aumentando seu apelo es
 Um bom exemplo desse recurso é quando esquecemos de preencher algum campo obrigatório de um formulário:
 
 <section align="center">
-    <img src="./images/aviso.png" alt="aviso de campos obrigatórios" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/aviso.jpeg" alt="aviso de campos obrigatórios" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 ## 2. Operável
@@ -75,7 +75,7 @@ Usuários que interagem com seus dispositivos através da fala muitas vezes usam
 Um bom exemplo desse recurso é o uso dos atalhos de teclado: 
 
 <section align="center">
-    <img src="./images/teclado.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/teclado.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 
@@ -86,7 +86,7 @@ Qualquer elemento na tela que tenha movimento automático ou pisque e que dure m
 Um bom exemplo desse recurso é o botão de pause que o Spotify oferece: 
 
 <section align="center">
-    <img src="./images/Pause_Spotify" alt="pause do spotify" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/Pause_Spotify" alt="pause do spotify" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 ### 2.3 Convulções e Reações Físicas
@@ -100,7 +100,7 @@ Um mecanismo está disponível para contornar blocos de conteúdo que são repet
 Um bom exemplo disso é o menu do WOW, que está presente em todas as páginas que o usuário possa acessar do site.
 
 <section align="center">
-    <img src="./images/menu.jpeg" alt="menu da amazon" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/menu.jpeg" alt="menu da amazon" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 ## 3 - Compreensível
@@ -111,7 +111,7 @@ Palavras regionais específicas e nomes próprios costumam ter pronúncias tamb�
 Um bom exemplo disso é o wikipédia, que disponibiliza um arquivo de áudio exemplificando como deve ser a pronúncia: 
 
 <section align="center">
-    <img src="./images/audio.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/audio.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 
