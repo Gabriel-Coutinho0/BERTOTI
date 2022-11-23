@@ -86,7 +86,7 @@ Qualquer elemento na tela que tenha movimento automático ou pisque e que dure m
 Um bom exemplo desse recurso é o botão de pause que o Spotify oferece: 
 
 <section align="center">
-    <img src="./img/Pause_Spotify" alt="pause do spotify" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/Pause_Spotify.jpeg" alt="pause do spotify" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
 ### 2.3 Convulções e Reações Físicas
