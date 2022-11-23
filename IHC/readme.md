@@ -114,5 +114,18 @@ Um bom exemplo disso é o wikipédia, que disponibiliza um arquivo de áudio exe
     <img src="./img/audio.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
 </section>
 
+## 4 - Robusto
+O conteúdo deve ser robusto o suficiente para que possa ser interpretado por uma grande variedade de agentes do usuário, incluindo tecnologias assistivas.
+### 4.1 Compatível
+No conteúdo implementado usando linguagens de marcação, as mensagens de status podem ser determinadas programáticamente por meio de função ou propriedades, de modo que possam ser apresentadas ao usuário por tecnologias assistivas sem receber foco.
 
+Um bom exemplo desse recurso é o Discord, que possibilita o usuário setar o status dele, ou irá ser setado automáticamente: 
+
+<section align="center">
+    <img src="./img/status.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+</section>
+
+## Referências
+- <a href="https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=129&currentsidebar=%23col_overview#principle1"> Heurísticas </a>
+- <a href="https://guia-wcag.com/"> Guia </a>
 
