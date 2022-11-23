@@ -63,7 +63,7 @@ A cor é um importante ativo no design de conteúdo web, aumentando seu apelo es
 Um bom exemplo desse recurso é quando esquecemos de preencher algum campo obrigatório de um formulário:
 
 <section align="center">
-    <img src="./img/aviso.jpeg" alt="aviso de campos obrigatórios" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/aviso.jpeg" alt="aviso de campos obrigatórios" style="vertical-align:top; align:center; display:inline-flex; padding: 10px; height:360px;"/>
 </section>
 
 ## 2. Operável
@@ -75,7 +75,7 @@ Usuários que interagem com seus dispositivos através da fala muitas vezes usam
 Um bom exemplo desse recurso é o uso dos atalhos de teclado: 
 
 <section align="center">
-    <img src="./img/teclado.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px;"/>
+    <img src="./img/teclado.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px; height:360px;"/>
 </section>
 
 
