@@ -24,7 +24,7 @@ Crie conteúdo que possa ser apresentado de diferentes maneiras (por exemplo, la
 Um bom exemplo disso é o site do WOW sendo responsivo:
 ## Desktop
 <section align="center">
-    <img src="./img/WowPc.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px; width:370px; height:800px;"/>
+    <img src="./img/WowPc.jpeg" style="vertical-align:top; align:center; display:inline-flex; padding: 10px height:800px;"/>
 </section>
 
 ## Celular
