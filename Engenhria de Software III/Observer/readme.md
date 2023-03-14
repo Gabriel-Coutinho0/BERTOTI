@@ -7,16 +7,16 @@
 
 # Código
 <section align="center">
-<img src= "./image/ShoppingCart1.jpeg" width=500/>
+<img src= "./imagens/ShoppingCart1.jpeg" width=500/>
 <br>
-<img src= "./image/ShoppingCart2.jpeg" width=500/>
+<img src= "./imagens/ShoppingCart2.jpeg" width=500/>
 <br>
-<img src= "./image/Observer.jpeg" width=500/>
+<img src= "./imagens/Observer.jpeg" width=500/>
 <br>
-<img src= "./image/ClassItem.jpeg" width=500/>
+<img src= "./imagens/ClassItem.jpeg" width=500/>
 <br>
-<img src= "./image/DesktopView.jpeg" width=500/>
+<img src= "./imagens/DesktopView.jpeg" width=500/>
 <br>
-<img src= "./image/MobileView.jpeg" width=500/>
+<img src= "./imagens/MobileView.jpeg" width=500/>
 </section>
 - <a href="Observer.rar">Código rar</a>
