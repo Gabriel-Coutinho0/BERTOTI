@@ -3,8 +3,8 @@ public class main {
             ShoppingCart shoppingCart = new ShoppingCart();
             DesktopView shoppingCartView = new DesktopView();
             MobileView shoppingCartView2 = new MobileView();
-            shoppingCart.attach(shoppingCartView);
-            // ShoppingCart.attach(shoppingCartView2);
+            // shoppingCart.attach(shoppingCartView);
+            ShoppingCart.attach(shoppingCartView2);
     
             Item item1 = new Item("Item 1", 10.5);
             Item item2 = new Item("Item 2", 20.0);
