@@ -1,0 +1,6 @@
+# Implementação Método Composite
+
+## Diagrama
+
+
+
